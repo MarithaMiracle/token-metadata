@@ -1,8 +1,4 @@
 {
     "version": 2,
-    "public": true,
-    "routes": [{
-        "src": "/(.*)",
-        "dest": "/$1"
-    }]
+    "public": true
 }
